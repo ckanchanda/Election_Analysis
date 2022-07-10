@@ -20,14 +20,17 @@ Software:
 ## Summary
 The analysis of the election show that:
 - The total votes cast in the election were: 369,711
+
 - The canidates were:
- * Charles Casper Stockham
- * Diana DeGette
- * Raymon Anthony Doane
+  * Charles Casper Stockham
+  * Diana DeGette
+  * Raymon Anthony Doane
+
 - The canidate results were:
- * Charles Casper Stockham: 23.0% (85,213)
- * Diana DeGette: 73.8% (272,892)
- * Raymon Anthony Doane: 3.1% (11,606)
+  * Charles Casper Stockham: 23.0% (85,213)
+  * Diana DeGette: 73.8% (272,892)
+  * Raymon Anthony Doane: 3.1% (11,606)
+
 - The winner of the election was: Diana DeGette with a vote count of 272,892 and
  a winning percentage of 73.8%.
 
