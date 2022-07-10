@@ -12,6 +12,7 @@ the following tasks using Python:
 
 ## Resources
 Downloaded the file "election_results.csv" from lesson 3.3.1.
+
 Software: 
  * Python Version 3.7.6
  * Visual Studio Code 1.69.0
