@@ -17,9 +17,14 @@ Software:
  * Python Version 3.7.6
  * Visual Studio Code 1.69.0
 
-## Summary
+## Election-Audit Results
 The analysis of the election show that:
-- The total votes cast in the election were: 369,711
+- The total votes cast in this congressional election were: 369,711
+- The number of votes and the percentage of total votes for each county were:
+  * Jefferson: 10.5% (38,855)
+  * Denver: 82.8% (306,055)
+  * Arapahoe: 6.7% (24,801)
+- The county with the largest number of votes was: Denver
 
 - The canidates were:
   * Charles Casper Stockham
@@ -34,6 +39,4 @@ The analysis of the election show that:
 - The winner of the election was: Diana DeGette with a vote count of 272,892 and
  a winning percentage of 73.8%.
 
-## Challenge Overview
-
-## Challenge Summary
+## Election-Audit Summary
